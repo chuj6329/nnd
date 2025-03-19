@@ -1,6 +1,6 @@
 #AICollection
 #DOMAIN:12
-#DOMAIN-SUFFIX:34
+#DOMAIN-SUFFIX:37
 #DOMAIN-KEYWORD:3
 #IP-ASN:1
 #IP-CIDR:2
@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+DOMAIN-SUFFIX,chat.deepseek.com
+DOMAIN-SUFFIX,tab.volces.com
+DOMAIN-SUFFIX,gator.volces.com
