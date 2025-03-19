@@ -73,4 +73,15 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,xai.com
 DOMAIN-KEYWORD,grok
-DOMAIN-SUFFIX,api.chatpub.ai
+DOMAIN-SUFFIX,chatpub.net
+DOMAIN-SUFFIX,chatpub.io
+DOMAIN-SUFFIX,chatpub.com
+DOMAIN-SUFFIX,chatpub.app
+DOMAIN-SUFFIX,chatpub.ai
+DOMAIN,api.chatpub.net
+DOMAIN,api.chatpub.ai
+DOMAIN,app.chatpub.net
+DOMAIN,web.chatpub.net
+DOMAIN,chat.chatpub.net
+DOMAIN,auth.chatpub.net
+DOMAIN,cdn.chatpub.net
