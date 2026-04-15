@@ -8,4 +8,4 @@
 网络诊断雷达 = script-name=network-radar, update-interval=10
 
 [Script]
-network-radar = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/chuj6329/nnd/network-radar.js
+network-radar = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/chuj6329/nnd/refs/heads/main/network-radar.js
