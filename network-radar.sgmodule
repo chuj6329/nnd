@@ -1,0 +1,11 @@
+#!name=网络诊断雷达（双列版）
+#!desc=高颜值网络雷达面板，支持流媒体/AI/纯净度/出口 ISP 检测
+#!author=你的名字
+#!category=Panel
+#!icon=waveform.path.ecg
+
+[Panel]
+网络诊断雷达 = script-name=network-radar, update-interval=10
+
+[Script]
+network-radar = type=generic,timeout=10,script-path=https://raw.githubuser.com/chuj6329/nnd/network-radar.js
